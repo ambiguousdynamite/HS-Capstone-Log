@@ -23,4 +23,23 @@ I'm thinking zombies? In the plot I think there should be a disaster before the 
 Anyway, this enemy should represent the first phase of zombification. In a super desolate place, zombies probably don't appear, so I should probably add them in areas filled with extra food caches. Maybe I'll turn them omnivorous to an extent. Their slow movement would allow some of them to keep on going off of ravaging remaining crops and foliage. Something they would prioritize over consumption might be the destruction of moving objects around them. Though these guys won't move fast, they'd still be in some sort of manic, destructive state where they just want to kill something.
 
 || Weak ranged type, slightly smarter enemy that attempts to keep a little distance while lobbing things at you (give it a melee attack for some self-defense?)
-I know that I want this enemy to be a robot. Probably some rogue unconfigured type with a small cache with random junk that it tries to lob at the enemy. It'll love trashing things for some reason.
+I know that I want this enemy to be a robot. Probably some rogue unconfigured type with a small cache with random junk that it tries to lob at the player. It loves trash for some reason.
+Once in a while, I'll have this enemy throw a larger object that does more damage but can be kicked back to deal good stunning splash damage.
+
+|| Medium ranged type, slightly braver enemy that has some sort of blast attack
+If I have this enemy use fire, it'll be too similar to another fire-throwing robot that I know of. I think I'll have this one toss water, or at least some sort of dangerous liquid. It'll probably be a sort of garbage disposal unit gone rogue, seeing the player as trash to be cleaned or something.
+
+|| Weak airborne kamikaze type, dies on impact
+Kamikaze drone. Sees player, charges at player, dies. I'm thinking a rogue surveillance bot.
+
+|| Heavy rusher type, pressure enemy that runs at player and attempts to punch them to oblivion
+At least a little taller than the player, definitively some sort of brute. Definitely a zombie. Probably some sort of elite version of te first stage of zombification where the zombie maintains its human form and acts like a typical zombie but has gained noticeable muscle mass and WILL use it to beat you up. Unlike the previous enemy type, this one also straight-up runs at you. Not fast enough to outrun you at full speed, but you'll have to deal with him eventually.
+
+|| Superheavy rusher type, tank/pressure enemy that runs at player and attempts to punch them to oblivion, might grab a nearby light zombie and use them as a projectile Gargantuar Style
+Considerably towers over the player at close range. An advancement in the elite version of the first stage of zombification, throughout the zombies this one is a big boss. He's a little slower than the last guy but does extra damage with extra damage range and with extra jumping distance. Definitely inspired by the Baron of Hell and the Gargantuar, this guy's a sort of hybrid of the two.
+
+|| Superheavy rusher type, tank/pressure enemy that runs at player and attempts to punch them to oblivion, doesn't grab nearby zombies but has area-controlling ranged attackes
+Basically the dastardly last zombie but has now been taken over by a rogue robot. While this does give this guy a little extra health boost, his rage is slightly toned down and doesn't exactly run right towards the player, instead choosing to only charge them at close range with slightly more damage and longer wind-up time. He also shoots missiles or releases energy into the ground or something.
+
+|| Heavy rusher type, like the previous heavy rusher type but has also been mechanized where the rogue robot controlling it is actually more compatible with this smaller big zombie and no longer jumps at player, choosing to go for direct slashes
+So this guy sucks because the robot that's controlled it has given it blades and a mobility boost. Instead of hastily jumping in an arch towards the player, this guy chooses to go for a forward lunge and uses slices to attack instead of punches.
